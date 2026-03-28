@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=yuvan-prasath&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvan-prasath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=yuvan-prasath&theme=onedark&no-frame=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=yuvan-prasath&icon=0&color=0)](https://visitcount.itsvg.in)
 
